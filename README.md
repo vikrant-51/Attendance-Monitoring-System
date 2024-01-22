@@ -5,3 +5,6 @@ For Teacher => Email: teacher@gmail.com
 For Admin => Email: admin@gmail.com
 For Student => Email:- studentdemo2@gmail.com 
 
+
+Note:-
+There are some bugs regarding navigation bar. It works for first time but after that doesn't work.
